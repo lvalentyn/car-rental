@@ -4,23 +4,23 @@
     color: #fff;
 }
 
-.header__top__left {
+.header__top-left {
     display: flex;
     align-items: center;
     column-gap: 1rem;
 }
 
-.header__top__left span {
+.header__top-left span {
     font-size: 0.9rem;
 }
 
-.header__top__help {
+.header__top-help {
     display: flex;
     align-items: center;
     column-gap: 0.4rem;
 }
 
-.header__top__help i {
+.header__top-help i {
     background: #fff;
     color: #000d6b;
     padding: 2px 4px;
@@ -28,13 +28,13 @@
     font-size: 0.7rem;
 }
 
-.header__top__right a {
+.header__top-right a {
     text-decoration: none;
     color: #fff;
     font-size: 0.9rem;
 }
 
-.header__top__right a:hover {
+.header__top-right a:hover {
     color: #fff;
 }
 

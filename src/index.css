@@ -42,6 +42,12 @@ ul {
     list-style: none;
 }
 
+.page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 .section__title {
     color: #000d6b;
     font-weight: 600;
